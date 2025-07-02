@@ -1,1 +1,1 @@
-# chrome-extension-hello-world-demo
+# chrome-extension-lab
